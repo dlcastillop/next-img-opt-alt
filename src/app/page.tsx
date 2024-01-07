@@ -1,3 +1,6 @@
+// Step 2: Optimize the image manually
+// Step 3: Use next/image normally
+
 import Image from "next/image";
 
 export default function Home() {
